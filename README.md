@@ -1,7 +1,25 @@
 # BIC Hackathon V 4.0 -Hack The City
 
-![BIC Hackathon Logo](https://hackathon.bic.edu.np/wp-content/uploads/2024/07/logo.png)  
+![BIC Hackathon Logo](./src/uploads/img-243.jpg)  
 Welcome to the **BIC Hackathon V 4.0** GitHub organization! This repository will serve as the central hub for all hackathon-related code, resources, and progress.
+
+---
+
+## 🏆 Winning Teams
+
+1. **🏆 First Place: United Tech Club**
+
+   - **Project:** Navikam - GPS Tracking System
+   - **Description:** A reliable GPS tracking system using LoRa technology at 433MHz, with scalable applications in IoT communication for Nepal.
+
+2. **✨ Most Innovative Project: Team Vision**
+
+   - **Project:** Netra - Smart Glass for the Visually Impaired
+   - **Description:** An inclusive and innovative smart glass using computer vision and natural language processing to empower visually impaired individuals in Nepali and English languages.
+
+3. **💻 Best Technology Used: Team Sekdaijau**
+   - **Project:** Community Connect
+   - **Description:** A mobile app bridging communication gaps and fostering community engagement to drive local development.
 
 ---
 
@@ -106,7 +124,7 @@ We extend our heartfelt gratitude to our sponsors for their generous support and
 
 - **Programiz**  
   _(Your ultimate platform for coding tutorials and practice.)_  
-  ![Programiz Logo](./src/logo/ProgramizLogo.SVG)
+  ![Programiz Logo](./src/logo/ProgramizLogo.png)
 
 ---
 
@@ -154,7 +172,7 @@ We extend our heartfelt gratitude to our sponsors for their generous support and
 
 - **Siddhartha Bank**  
   _(Empowering financial solutions for a prosperous future.)_  
-  ![Siddhartha Bank Logo](./src/logo/SiddharthaBankLogo.JPG)
+  ![Siddhartha Bank Logo](./src/logo/SiddharthaBankLogo.jpg)
 
 ---
 
@@ -190,6 +208,12 @@ We extend our heartfelt gratitude to our sponsors for their generous support and
 
 - **Birendra Open Source Club (BOSC)**  
   _(Promoting open-source contributions and collaboration.)_  
-  ![BOSC Logo](./src/logo/BOSC.JPG)
+  ![BOSC Logo](./src/logo/bosc.JPG)
 
 ---
+
+## 📂 Event Photos Directory
+
+All the event photos captured during **BIC Hackathon V4.0** are stored in the [`uploads` folder](./src/uploads).
+
+You can browse through this directory to view or download the photos!
